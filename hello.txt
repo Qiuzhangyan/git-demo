@@ -12,6 +12,10 @@ hello atguigu!!!
 在这里修改一句话！
 在这里添加一句话：我是bianchengxiao！！
 sdadsadsaddddddddddddddddddddddddddddddddddddddddddddddddd
+
+在这里测试一下本地修改
+
+在工作区中添加的数据
 测试一下ssh免密登录
 
 本地的修改 测试免密登录
